@@ -16,7 +16,10 @@ const Header: React.FC<HeaderProps> = ({ data }) => {
         </h2>
       </div>
       <div className="mt-4 md:mt-0">
-        <div className="text-right text-xl font-bold bg-black text-white py-2 px-4 rounded-lg">
+        <div
+          className="text-center text-xl font-bold bg-black text-white py-2 px-4 rounded-lg"
+          dir="ltr"
+        >
           {data.insideRegionTitle}
           <span className="block text-2xl">{data.insideRegionPrice}</span>
         </div>
