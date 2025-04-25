@@ -5,7 +5,7 @@ export const shippingData: ShippingData = {
   subtitle: "Shipping Services",
   priceTableTitle: "قائمة الأسعار",
   insideRegionTitle: "الشحن داخل المنوفية",
-  insideRegionPrice: "LE 40",
+  insideRegionPrice: "40 LE",
   locations: [
     {
       id: "1",
@@ -25,17 +25,17 @@ export const shippingData: ShippingData = {
     {
       id: "4",
       name: "الشرقية - الغربية - الدقهلية",
-      price: 75,
+      price: 80,
     },
     {
       id: "5",
       name: "كفر الشيخ - البحيره - دمياط",
-      price: 75,
+      price: 80,
     },
     {
       id: "6",
       name: "بورسعيد - اسماعيلية - السويس",
-      price: 75,
+      price: 80,
     },
     {
       id: "7",
