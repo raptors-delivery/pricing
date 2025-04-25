@@ -10,17 +10,17 @@ export const shippingData: ShippingData = {
     {
       id: "1",
       name: "القاهرة - الجيزة",
-      price: 65,
+      price: 75,
     },
     {
       id: "2",
       name: "القاهرة الجديده - اكتوبر وزايد- اسكندرية",
-      price: 70,
+      price: 80,
     },
     {
       id: "3",
       name: "البدرشين والحواديه وحلوان - القليوبية",
-      price: 75,
+      price: 80,
     },
     {
       id: "4",
@@ -40,22 +40,22 @@ export const shippingData: ShippingData = {
     {
       id: "7",
       name: "الفيوم - سوهاج - بني سويف - المنيا",
-      price: 90,
+      price: 100,
     },
     {
       id: "8",
       name: "أسيوط - قنا - الأقصر - أسوان",
-      price: 90,
+      price: 100,
     },
     {
       id: "9",
       name: "شمال وجنوب سيناء - الغردقة - مطروح",
-      price: 100,
+      price: 120,
     },
     {
       id: "10",
       name: "شرم الشيخ - البحر الأحمر - الوادي الجديد",
-      price: 100,
+      price: 120,
     },
   ],
   contact: {
